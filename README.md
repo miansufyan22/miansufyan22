@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @miansufyan22 
+- 👋 Hi, I’m @miansufyan22 Musali
 - 👀 I’m interested in web developnment
 - 🌱 I’m currently learning html+css
 - 💞️ I’m looking to collaborate on software house
